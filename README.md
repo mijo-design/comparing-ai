@@ -1,4 +1,6 @@
 # AI Model Comparison Repository
+![compare](https://github.com/mijo-design/comparing-ai/assets/47084064/9c54917e-7bf8-4466-904c-83023a5a6436)
+> A ballet dancer mid-leap on a bustling city street, her graceful form juxtaposed against the urban landscape, her every muscle telling a story of discipline and passion.
 
 This repository aims to compare and analyze the outputs of different AI models given the same prompts. We believe in the value of open, collaborative research and welcome contributions from all interested parties.
 
